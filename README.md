@@ -1,5 +1,5 @@
 # Educational-Organization-using-ServiceNow
-Here You will find all the document files related to the " Prevent user deletion if assigned to an incident" Project.
+Here You will find all the document files related to the " Educational Organization using ServiceNow" Project.
 
 Team ID : NM2025TMID07317
 
